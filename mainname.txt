@@ -1,0 +1,3 @@
+hello world
+palindrome of a number
+even or odd
